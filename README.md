@@ -19,14 +19,17 @@ An interactive timeline-based navigation menu built with **HTML**, **CSS**, and 
 📂 Animated-Timeline-Navigation 
 
 ├── 📜 index.html # Main HTML file 
+
 ├── 📜 style.css # Stylesheet 
+
 ├── 📜 script.js # JavaScript for animations 
+
 ├── 📜 README.md # Documentation
 
 
 ## 🎮 How to Use
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Anjali-Kumari20-dot/Animated-Timeline-Navigation.git
 2. Open the `index.html` file in your browser.
 3. Click the menu icon to reveal the timeline navigation.
 4. Click the close icon to hide the menu.
